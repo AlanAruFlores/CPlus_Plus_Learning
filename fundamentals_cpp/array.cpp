@@ -21,6 +21,14 @@
 	 printf("The total of the array is %d \n",acum);
 	 
 	 
+	 // sizeof() --> useful to get the size of an array
+	 // size_t --> kind of data that replace: unsigned types
+	 
+	 size_t sizeArr = sizeof(arrayNumbers) / sizeof(arrayNumbers[0]);
+	
+	 printf("The size of the array is %d\n",sizeArr);
+	 
+	 
 	 
 	 // Also we can define dinamycally the size of the array
 	 int countElements = 0;
@@ -32,6 +40,7 @@
 	 arr = fillTheArray(arr, countElements);
 	 
 	 printArray(arr, countElements);
+	 
 	 
 	 
 	 getch();
