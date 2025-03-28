@@ -4,6 +4,10 @@
  #include <string.h>
  
  
+ //These is useful to use reverse method()
+ #include <algorithm>
+ #include <ctype.h>
+ 
  typedef char string40 [40];
  
  
@@ -45,7 +49,11 @@
 	string40 word2 = "hi how are you";
 	std::cout<<"Upper Form: "<<parseAStringToUpper(word)<<std::endl;
 	
+	//reverse(begin,end) 
 	
+	string40 wordToReverse = "Alan";
+	reverse(wordToReverse.begin(), wordToReverse.end());
+	std::cout<<"Reverse: "<<wordToReverse<<std::endl;
 	
 	
 	 
