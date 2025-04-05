@@ -4,7 +4,7 @@
 #include <cstring>  // Include this header for memset
 
 /*
-	NOTE:
+	NOTE - HACK 4:
 	When we have a method with a lot of parameters, in that case is useful to use a STRUCT
 */
 
