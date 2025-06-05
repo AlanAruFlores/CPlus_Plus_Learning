@@ -4,8 +4,6 @@ Este repositorio contiene apuntes organizados, ejemplos y recursos prácticos so
 
 ---
 
-## 🧠 Contenidos
-
 ### 🔹 Fundamentos del lenguaje
 - Sintaxis básica
 - Tipos de datos y variables
