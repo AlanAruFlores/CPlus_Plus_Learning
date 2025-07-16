@@ -1,4 +1,4 @@
-# 📘 Apuntes de C++
+# 📘 C++
 
 Este repositorio contiene apuntes organizados, ejemplos y recursos prácticos sobre el lenguaje de programación **C++**, recopilados a lo largo de mi aprendizaje. Es una guía personal, pero también puede servirte si estás empezando o querés reforzar conocimientos clave.
 
